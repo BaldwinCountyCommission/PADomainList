@@ -118,3 +118,5 @@ identrust.com
 godaddy.com
 *.microsoft.com
 microsoft.com
+*.knowbe4.com
+knowbe4.com
