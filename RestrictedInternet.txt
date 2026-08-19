@@ -116,3 +116,5 @@ digicert.com
 identrust.com
 *.godaddy.com
 godaddy.com
+*.microsoft.com
+microsoft.com
